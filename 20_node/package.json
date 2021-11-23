@@ -1,0 +1,16 @@
+{
+  "name": "20_node",
+  "version": "1.0.0",
+  "description": "practise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.5.2",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
